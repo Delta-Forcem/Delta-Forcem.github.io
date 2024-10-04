@@ -425,4 +425,15 @@ footer {
     .titulo-final {
         font-size: 20px;
     }
+button{
+    font-size: 20px;
+    padding: 10px 20px;
+    border:none;
+    boder-radius: 50px;
+    background: skyblue;
+    box-shadow: 0 0 5px skyblue;
+    transition: all 0.4s ease;
+    cursor: pointer
+    }   
+    
 }
