@@ -56,7 +56,7 @@ button:hover{
                 0 0 25px rgb(255, 255, 255),
                 0 0 50px rgb(255, 255, 255),
                 0 0 100px rgb(255, 255, 255);
-    1button{
+    oro{
     
     font-size: 20px;
     padding:10px 20px ;
@@ -68,7 +68,7 @@ button:hover{
     transition: all 0.4s ease;
     cursor:pointer;
 }
-1button:hover{
+oro:hover{
     box-shadow: 0 0 5px rgb(255, 255, 255),
                 0 0 25px rgb(255, 255, 255),
                 0 0 50px rgb(255, 255, 255),
