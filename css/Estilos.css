@@ -56,7 +56,9 @@ button:hover{
                 0 0 25px rgb(255, 255, 255),
                 0 0 50px rgb(255, 255, 255),
                 0 0 100px rgb(255, 255, 255);
-    button{
+}
+
+button{
     
     font-size: 20px;
     padding:10px 20px ;
@@ -68,12 +70,14 @@ button:hover{
     transition: all 0.4s ease;
     cursor:pointer;
 }
-}button:hover{
+button:hover{
     box-shadow: 0 0 5px rgb(255, 255, 255),
                 0 0 25px rgb(255, 255, 255),
                 0 0 50px rgb(255, 255, 255),
                 0 0 100px rgb(255, 255, 255);
-    button2{
+    }
+
+button2{
     
     font-size: 20px;
     padding:10px 20px ;
@@ -85,11 +89,12 @@ button:hover{
     transition: all 0.4s ease;
     cursor:pointer;
 }
-}button2:hover{
+button2:hover{
     box-shadow: 0 0 5px rgb(255, 255, 255),
                 0 0 25px rgb(255, 255, 255),
                 0 0 50px rgb(255, 255, 255),
                 0 0 100px rgb(255, 255, 255);
+}
     button3{
     
     font-size: 20px;
@@ -101,13 +106,16 @@ button:hover{
                 0 0 25px skyblue;
     transition: all 0.4s ease;
     cursor:pointer;
+
 }
-}button3:hover{
+button3:hover{
+
     box-shadow: 0 0 5px rgb(255, 255, 255),
                 0 0 25px rgb(255, 255, 255),
                 0 0 50px rgb(255, 255, 255),
                 0 0 100px rgb(255, 255, 255);
-    button4{
+}
+button4{
     
     font-size: 20px;
     padding:10px 20px ;
@@ -119,11 +127,12 @@ button:hover{
     transition: all 0.4s ease;
     cursor:pointer;
 }
-}button4:hover{
+button4:hover{
     box-shadow: 0 0 5px rgb(255, 255, 255),
                 0 0 25px rgb(255, 255, 255),
                 0 0 50px rgb(255, 255, 255),
                 0 0 100px rgb(255, 255, 255);
+}
     button5{
     
     font-size: 20px;
@@ -136,14 +145,13 @@ button:hover{
     transition: all 0.4s ease;
     cursor:pointer;
 }
-}button5:hover{
+button5:hover{
     box-shadow: 0 0 5px rgb(255, 255, 255),
                 0 0 25px rgb(255, 255, 255),
                 0 0 50px rgb(255, 255, 255),
                 0 0 100px rgb(255, 255, 255);
 
 }
-
 nav {
     text-align: right;
     padding: 30px 50px 0 0;
