@@ -44,6 +44,7 @@ button{
     font-size: 20px;
     padding:10px 20px ;
     border: none;
+    text-decoration: none;
     border-radius: 50px;
     background:rgba(0, 204, 255, 0) ;
     box-shadow: 0 0 5px rgb(255, 255, 255),
@@ -63,6 +64,7 @@ button1{
     font-size: 20px;
     padding:10px 20px ;
     border: none;
+    text-decoration: none;
     border-radius: 50px;
     background:rgba(0, 204, 255, 0) ;
     box-shadow: 0 0 5px rgb(255, 255, 255),
@@ -82,6 +84,7 @@ button2{
     font-size: 20px;
     padding:10px 20px ;
     border: none;
+        text-decoration: none;
     border-radius: 50px;
     background:rgba(0, 204, 255, 0) ;
     box-shadow: 0 0 5px rgb(255, 255, 255),
@@ -100,6 +103,7 @@ button2:hover{
     font-size: 20px;
     padding:10px 20px ;
     border: none;
+            text-decoration: none;
     border-radius: 50px;
     background:rgba(0, 204, 255, 0) ;
     box-shadow: 0 0 5px rgb(255, 255, 255),
@@ -120,6 +124,7 @@ button4{
     font-size: 20px;
     padding:10px 20px ;
     border: none;
+        text-decoration: none;
     border-radius: 50px;
     background:rgba(0, 204, 255, 0) ;
     box-shadow: 0 0 5px rgb(255, 255, 255),
@@ -138,6 +143,7 @@ button4:hover{
     font-size: 20px;
     padding:10px 20px ;
     border: none;
+            text-decoration: none;
     border-radius: 50px;
     background:rgba(0, 204, 255, 0) ;
     box-shadow: 0 0 5px rgb(255, 255, 255),
