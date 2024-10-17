@@ -30,9 +30,9 @@ header {
     height: 600px;
     background: #bc4e9c;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(208, 40%, 35%, 0.459), hsla(272, 15%, 42%, 0.664), hsla(343, 40%, 59%, 0.459)), url(../img/port 8.jpg);
+    background: -webkit-linear-gradient(to right, hsla(208, 40%, 35%, 0.459), hsla(272, 15%, 42%, 0.664), hsla(343, 40%, 59%, 0.459)), url(../img/port\ 8.jpg);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(208, 40%, 35%, 0.459), hsla(272, 15%, 42%, 0.664), hsla(343, 40%, 59%, 0.459)), url(../img/portada\ 3.jpeg);
+    background: linear-gradient(to right, hsla(208, 40%, 35%, 0.459), hsla(272, 15%, 42%, 0.664), hsla(343, 40%, 59%, 0.459)), url(../img/port\ 3.jpg);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
@@ -68,7 +68,7 @@ button:hover{
     transition: all 0.4s ease;
     cursor:pointer;
 }
-button:hover{
+}button:hover{
     box-shadow: 0 0 5px rgb(255, 255, 255),
                 0 0 25px rgb(255, 255, 255),
                 0 0 50px rgb(255, 255, 255),
@@ -85,7 +85,7 @@ button:hover{
     transition: all 0.4s ease;
     cursor:pointer;
 }
-button2:hover{
+}button2:hover{
     box-shadow: 0 0 5px rgb(255, 255, 255),
                 0 0 25px rgb(255, 255, 255),
                 0 0 50px rgb(255, 255, 255),
@@ -102,7 +102,7 @@ button2:hover{
     transition: all 0.4s ease;
     cursor:pointer;
 }
-button3:hover{
+}button3:hover{
     box-shadow: 0 0 5px rgb(255, 255, 255),
                 0 0 25px rgb(255, 255, 255),
                 0 0 50px rgb(255, 255, 255),
@@ -119,7 +119,7 @@ button3:hover{
     transition: all 0.4s ease;
     cursor:pointer;
 }
-button4:hover{
+}button4:hover{
     box-shadow: 0 0 5px rgb(255, 255, 255),
                 0 0 25px rgb(255, 255, 255),
                 0 0 50px rgb(255, 255, 255),
@@ -136,7 +136,7 @@ button4:hover{
     transition: all 0.4s ease;
     cursor:pointer;
 }
-button5:hover{
+}button5:hover{
     box-shadow: 0 0 5px rgb(255, 255, 255),
                 0 0 25px rgb(255, 255, 255),
                 0 0 50px rgb(255, 255, 255),
@@ -350,7 +350,6 @@ main .sobre-nosotros {
 .servicio-ind p {
     font-weight: 300;
     text-align: justify;
-    margin-left: 25px;
 }
 
 /* footer */
@@ -535,4 +534,4 @@ footer {
         border-style:groove;
         text-align: center;
     }
-
+}
