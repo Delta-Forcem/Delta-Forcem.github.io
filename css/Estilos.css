@@ -32,7 +32,7 @@ header {
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, hsla(208, 40%, 35%, 0.459), hsla(272, 15%, 42%, 0.664), hsla(343, 40%, 59%, 0.459)), url(../img/port\ 8.jpg);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(208, 40%, 35%, 0.459), hsla(272, 15%, 42%, 0.664), hsla(343, 40%, 59%, 0.459)), url(../img/port\ 3.jpg);
+    background: linear-gradient(to right, hsla(208, 40%, 35%, 0.459), hsla(272, 15%, 42%, 0.664), hsla(343, 40%, 59%, 0.459)), url(../img/logo de empresa\ .jpg);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
@@ -325,12 +325,22 @@ footer {
     margin: 20px 0 0 0;
     color: #9e9797;
 }
-
+/* passwords */
+/* K3iOddsMoss, Surfing&B0arding */
 /* Ethics */
 
-.etica {
-
+.caja-ind{
+    border: 2px solid #007bff;
+    border-radius: 5px;
+    padding: 10px;
+    width: 300px;
+    background-color: #f9f9f9;
 }
+.caja-ind li {
+    margin: 5px 0;
+}
+
+
 
 @media screen and (max-width:900px) {
     header {
@@ -343,7 +353,7 @@ footer {
         align-items: center;
     }
 
-    .sobre-nosotros .contenido-textos {
+    .sobre-nosotros .contenido-textos { 
         width: 90%;
     }
 
