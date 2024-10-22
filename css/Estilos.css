@@ -314,12 +314,22 @@ footer {
     margin: 20px 0 0 0;
     color: #9e9797;
 }
-
+/* passwords */
+/* K3iOddsMoss, Surfing&B0arding */
 /* Ethics */
 
-.etica {
-
+.caja-ind{
+    border: 2px solid #007bff;
+    border-radius: 5px;
+    padding: 10px;
+    width: 300px;
+    background-color: #f9f9f9;
 }
+.caja-ind li {
+    margin: 5px 0;
+}
+
+
 
 @media screen and (max-width:900px) {
     header {
@@ -332,7 +342,7 @@ footer {
         align-items: center;
     }
 
-    .sobre-nosotros .contenido-textos {
+    .sobre-nosotros .contenido-textos { 
         width: 90%;
     }
 
