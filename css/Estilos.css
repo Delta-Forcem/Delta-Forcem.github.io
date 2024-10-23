@@ -39,25 +39,7 @@ header {
     position: relative;
 }
 /* boton enlace */
-button{
-    
-    font-size: 20px;
-    padding:10px 20px ;
-    border: none;
-    text-decoration: none;
-    border-radius: 50px;
-    background:rgba(0, 204, 255, 0) ;
-    box-shadow: 0 0 5px rgb(255, 255, 255),
-                0 0 25px skyblue;
-    transition: all 0.4s ease;
-    cursor:pointer;
-}
-button:hover{
-    box-shadow: 0 0 5px rgb(255, 255, 255),
-                0 0 25px rgb(255, 255, 255),
-                0 0 50px rgb(255, 255, 255),
-                0 0 100px rgb(255, 255, 255);
-}
+
 
 button1{
     
