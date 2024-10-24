@@ -32,114 +32,124 @@ header {
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, hsla(208, 40%, 35%, 0.459), hsla(272, 15%, 42%, 0.664), hsla(343, 40%, 59%, 0.459)), url(../img/port\ 8.jpg);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(208, 40%, 35%, 0.459), hsla(272, 15%, 42%, 0.664), hsla(343, 40%, 59%, 0.459)), url(../img/logo de empresa\.png);
+    background: linear-gradient(to right, hsla(208, 40%, 35%, 0.459), hsla(272, 15%, 42%, 0.664), hsla(343, 40%, 59%, 0.459)), url(../img/logo_de_empresa\.png);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
     position: relative;
 }
+
 /* boton enlace */
 
 
-button1{
-    
+button1 {
+
     font-size: 20px;
-    padding:10px 20px ;
+    padding: 10px 20px;
     border: none;
     text-decoration: none;
     border-radius: 50px;
-    background:rgba(0, 204, 255, 0) ;
+    background: rgba(0, 204, 255, 0);
     box-shadow: 0 0 5px rgb(255, 255, 255),
-                0 0 25px skyblue;
+        0 0 25px skyblue;
     transition: all 0.4s ease;
-    cursor:pointer;
+    cursor: pointer;
 }
-button1:hover{
-    box-shadow: 0 0 5px rgb(255, 255, 255),
-                0 0 25px rgb(255, 255, 255),
-                0 0 50px rgb(255, 255, 255),
-                0 0 100px rgb(255, 255, 255);
-    }
 
-button2{
-    
-    font-size: 20px;
-    padding:10px 20px ;
-    border: none;
-        text-decoration: none;
-    border-radius: 50px;
-    background:rgba(0, 204, 255, 0) ;
+button1:hover {
     box-shadow: 0 0 5px rgb(255, 255, 255),
-                0 0 25px skyblue;
-    transition: all 0.4s ease;
-    cursor:pointer;
+        0 0 25px rgb(255, 255, 255),
+        0 0 50px rgb(255, 255, 255),
+        0 0 100px rgb(255, 255, 255);
 }
-button2:hover{
-    box-shadow: 0 0 5px rgb(255, 255, 255),
-                0 0 25px rgb(255, 255, 255),
-                0 0 50px rgb(255, 255, 255),
-                0 0 100px rgb(255, 255, 255);
-}
-    button3{
-    
-    font-size: 20px;
-    padding:10px 20px ;
-    border: none;
-            text-decoration: none;
-    border-radius: 50px;
-    background:rgba(0, 204, 255, 0) ;
-    box-shadow: 0 0 5px rgb(255, 255, 255),
-                0 0 25px skyblue;
-    transition: all 0.4s ease;
-    cursor:pointer;
 
-}
-button3:hover{
+button2 {
 
-    box-shadow: 0 0 5px rgb(255, 255, 255),
-                0 0 25px rgb(255, 255, 255),
-                0 0 50px rgb(255, 255, 255),
-                0 0 100px rgb(255, 255, 255);
-}
-button4{
-    
     font-size: 20px;
-    padding:10px 20px ;
+    padding: 10px 20px;
     border: none;
-        text-decoration: none;
+    text-decoration: none;
     border-radius: 50px;
-    background:rgba(0, 204, 255, 0) ;
+    background: rgba(0, 204, 255, 0);
     box-shadow: 0 0 5px rgb(255, 255, 255),
-                0 0 25px skyblue;
+        0 0 25px skyblue;
     transition: all 0.4s ease;
-    cursor:pointer;
+    cursor: pointer;
 }
-button4:hover{
+
+button2:hover {
     box-shadow: 0 0 5px rgb(255, 255, 255),
-                0 0 25px rgb(255, 255, 255),
-                0 0 50px rgb(255, 255, 255),
-                0 0 100px rgb(255, 255, 255);
+        0 0 25px rgb(255, 255, 255),
+        0 0 50px rgb(255, 255, 255),
+        0 0 100px rgb(255, 255, 255);
 }
-    button5{
-    
+
+button3 {
+
     font-size: 20px;
-    padding:10px 20px ;
+    padding: 10px 20px;
     border: none;
-            text-decoration: none;
+    text-decoration: none;
     border-radius: 50px;
-    background:rgba(0, 204, 255, 0) ;
+    background: rgba(0, 204, 255, 0);
     box-shadow: 0 0 5px rgb(255, 255, 255),
-                0 0 25px skyblue;
+        0 0 25px skyblue;
     transition: all 0.4s ease;
-    cursor:pointer;
-}
-button5:hover{
-    box-shadow: 0 0 5px rgb(255, 255, 255),
-                0 0 25px rgb(255, 255, 255),
-                0 0 50px rgb(255, 255, 255),
-                0 0 100px rgb(255, 255, 255);
+    cursor: pointer;
 
 }
+
+button3:hover {
+
+    box-shadow: 0 0 5px rgb(255, 255, 255),
+        0 0 25px rgb(255, 255, 255),
+        0 0 50px rgb(255, 255, 255),
+        0 0 100px rgb(255, 255, 255);
+}
+
+button4 {
+
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    text-decoration: none;
+    border-radius: 50px;
+    background: rgba(0, 204, 255, 0);
+    box-shadow: 0 0 5px rgb(255, 255, 255),
+        0 0 25px skyblue;
+    transition: all 0.4s ease;
+    cursor: pointer;
+}
+
+button4:hover {
+    box-shadow: 0 0 5px rgb(255, 255, 255),
+        0 0 25px rgb(255, 255, 255),
+        0 0 50px rgb(255, 255, 255),
+        0 0 100px rgb(255, 255, 255);
+}
+
+button5 {
+
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    text-decoration: none;
+    border-radius: 50px;
+    background: rgba(0, 204, 255, 0);
+    box-shadow: 0 0 5px rgb(255, 255, 255),
+        0 0 25px skyblue;
+    transition: all 0.4s ease;
+    cursor: pointer;
+}
+
+button5:hover {
+    box-shadow: 0 0 5px rgb(255, 255, 255),
+        0 0 25px rgb(255, 255, 255),
+        0 0 50px rgb(255, 255, 255),
+        0 0 100px rgb(255, 255, 255);
+
+}
+
 nav {
     text-align: right;
     padding: 30px 50px 0 0;
@@ -229,7 +239,9 @@ main .sobre-nosotros {
     padding: 0px 0px 30px 15px;
     font-weight: 300;
     text-align: justify;
-} p {
+}
+
+p {
     padding: 0px 0px 30px 15px;
     font-weight: 300;
     text-align: justify;
@@ -307,24 +319,40 @@ footer {
     margin: 20px 0 0 0;
     color: #9e9797;
 }
+
 /* passwords */
 /* K3iOddsMoss, Surfing&B0arding */
 /* Ethics */
 
-.caja-ind{
+.caja-lista {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    max-width: 1200px;
+}
+
+.caja-ind {
     border: none;
-      border-radius: 50px;
+    border-radius: 50px;
     padding: 10px;
     text-align: center;
-    width: 300px;
-    cursor:pointer;
+    cursor: pointer;
 }
+
 .caja-ind:hover {
-  box-shadow: 0 0 5px rgb(236, 183, 183),
-              0 0 25px rgb(236, 183, 183),
-              0 0 50px rgb(236, 183, 183),
-              0 0 100px rgb(236, 183, 183);
-    }
+    box-shadow: 0 0 5px rgb(236, 183, 183),
+        0 0 25px rgb(236, 183, 183),
+        0 0 50px rgb(236, 183, 183),
+        0 0 100px rgb(236, 183, 183);
+}
+
+p {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+
+}
+
 h3 {
     font-size: 30px;
     text-align: center;
@@ -343,7 +371,7 @@ h3 {
         align-items: center;
     }
 
-    .sobre-nosotros .contenido-textos { 
+    .sobre-nosotros .contenido-textos {
         width: 90%;
     }
 
@@ -470,11 +498,13 @@ h3 {
     .titulo-final {
         font-size: 20px;
     }
-    .ol{
-        border-style:groove;
+
+    .ol {
+        border-style: groove;
         text-align: center;
     }
-.contenido-textos {
-    text-align: center;
-      }
+
+    .contenido-textos {
+        text-align: center;
+    }
 }
